@@ -1,3 +1,8 @@
+# Flask =
+# Warning: This is a development server. Do not use it in a production development.
+# *Use a production WSGI server instead!
+
+
 # set up a web server and create a simple website using Flask, Python, and HTML/CSS
 # The web server will be able to react to the dynamic content that the user inputs, so your website will be a web application that can more than just show static information
 # requirements: Python 3, install Python modules using pip
